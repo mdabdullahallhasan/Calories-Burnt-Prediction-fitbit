@@ -1,0 +1,19 @@
+
+
+First Name: Hitesh
+Last Name: Gupta
+Password: 123123
+Email: hit@gmail.com
+Address Dashrath
+Gender: Male
+Course: PHP .NET JAVA PYTHON 
+Department: CSE 
+
+First Name: XYZ
+Last Name: Gupta
+Password: 123123
+Email: hit@gmail.com
+Address Dashrath
+Gender: Male
+Course: PHP .NET JAVA PYTHON 
+Department: CSE 
